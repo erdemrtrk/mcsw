@@ -1,0 +1,20 @@
+mining:
+  # Chunk başına kaç taş bloğu olsun
+  stones-per-chunk: 20
+  # Kırıldıktan kaç saniye sonra yenilensin
+  respawn-delay-seconds: 4
+  # Taşların spawn olacağı Y yüksekliği (flat dünya)
+  spawn-y: 65
+
+  # Hangi bloklar spawn olsun ve kaç XP versin
+  blocks:
+    STONE: 10
+    COBBLESTONE: 8
+    COAL_ORE: 25
+    IRON_ORE: 50
+    GOLD_ORE: 80
+    DIAMOND_ORE: 150
+
+  # Levellar için gereken XP (level 1->2 için 100 XP, vs)
+  xp-per-level: 100
+  xp-multiplier: 1.5  # Her levelde gereken XP bu kadar artar
