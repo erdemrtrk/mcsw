@@ -1,0 +1,11 @@
+com\mining\plugin\managers\NpcManager.class
+com\mining\plugin\managers\CrystalManager.class
+com\mining\plugin\models\PlayerData.class
+com\mining\plugin\commands\SetupCommand.class
+com\mining\plugin\managers\ZoneManager.class
+com\mining\plugin\commands\AdminCommand.class
+com\mining\plugin\managers\ScoreboardManager.class
+com\mining\plugin\managers\ZoneManager$ZoneInfo.class
+com\mining\plugin\commands\GelistirCommand.class
+com\mining\plugin\MiningPlugin.class
+com\mining\plugin\managers\ItemManager.class

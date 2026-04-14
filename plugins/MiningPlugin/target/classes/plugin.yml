@@ -1,0 +1,14 @@
+name: MiningPlugin
+version: 1.0
+main: com.mining.plugin.MiningPlugin
+api-version: 1.16
+commands:
+  setupworld:
+    description: Metin2 adalarini ve NPC'leri otomatik insa eder.
+    usage: /setupworld
+  gelistir:
+    description: Elindeki kilici uzuntu kristali parcalariyla gelistirir.
+    usage: /gelistir
+  adminesya:
+    description: Adminler icin test esyasi verir.
+    usage: /adminesya
