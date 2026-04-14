@@ -1,2 +1,3 @@
 # mcsw
-my mcsw
+
+My AI playground.
